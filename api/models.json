@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T04:49:16.437572Z",
+  "generated_at": "2026-11-01T05:13:27.971982Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -53,24 +53,6 @@
         {
           "id": "nvidia/nemotron-3.5-content-safety:free",
           "name": "NVIDIA Nemotron 3.5 Content Safety",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "poolside/laguna-s-2.1:free",
-          "name": "Poolside Laguna S 2.1",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "poolside/laguna-xs-2.1:free",
-          "name": "Poolside Laguna XS 2.1",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -219,16 +201,6 @@
         {
           "id": "openrouter/free",
           "name": "OpenRouter Free Models (Router)",
-          "intelligence_score": null
-        },
-        {
-          "id": "poolside/laguna-s-2.1:free",
-          "name": "Poolside Laguna S 2.1",
-          "intelligence_score": null
-        },
-        {
-          "id": "poolside/laguna-xs-2.1:free",
-          "name": "Poolside Laguna XS 2.1",
           "intelligence_score": null
         },
         {

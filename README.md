@@ -96,10 +96,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [NVIDIA Nemotron 3.5 Content Safety](https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free)
 
-- [Poolside Laguna S 2.1](https://openrouter.ai/poolside/laguna-s-2.1:free)
-
-- [Poolside Laguna XS 2.1](https://openrouter.ai/poolside/laguna-xs-2.1:free)
-
 - [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
 
 - [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
@@ -229,10 +225,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 - NVIDIA Nemotron 3.5 Content Safety
 
 - OpenRouter Free Models (Router)
-
-- Poolside Laguna S 2.1
-
-- Poolside Laguna XS 2.1
 
 - dots-studio/dots-3-note-preview:free
 
