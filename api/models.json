@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:12:55.865305Z",
+  "generated_at": "2026-11-03T05:56:18.299699Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -179,6 +179,11 @@
           "intelligence_score": null
         },
         {
+          "id": "google/gemma-4-31b-it:free",
+          "name": "Gemma 4 31B Instruct",
+          "intelligence_score": null
+        },
+        {
           "id": "kilo-auto/free",
           "name": "Kilo Auto Free (Router)",
           "intelligence_score": null
@@ -241,6 +246,16 @@
         {
           "id": "stealth/glyph-cluster",
           "name": "stealth/glyph-cluster",
+          "intelligence_score": null
+        },
+        {
+          "id": "thinkingmachines/inkling-small:free",
+          "name": "thinkingmachines/inkling-small:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "thinkingmachines/inkling:free",
+          "name": "thinkingmachines/inkling:free",
           "intelligence_score": null
         },
         {

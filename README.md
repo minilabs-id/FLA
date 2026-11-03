@@ -216,6 +216,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - Cohere North Mini Code
 
+- Gemma 4 31B Instruct
+
 - Kilo Auto Free (Router)
 
 - NVIDIA Nemotron 3 Nano Omni 30B A3B (Reasoning)
@@ -241,6 +243,10 @@ Ubah src/README_template.md atau skrip generator-nya.
 - reflection/beam-free
 
 - stealth/glyph-cluster
+
+- thinkingmachines/inkling-small:free
+
+- thinkingmachines/inkling:free
 
 - xingchen-agi/xing4.0-29b-a4b:free
 
