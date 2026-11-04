@@ -216,39 +216,25 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - Cohere North Mini Code
 
-- Gemma 4 31B Instruct
-
 - Kilo Auto Free (Router)
 
 - NVIDIA Nemotron 3 Nano Omni 30B A3B (Reasoning)
 
 - NVIDIA Nemotron 3 Ultra 550B A55B
 
-- NVIDIA Nemotron 3.5 Content Safety
-
 - OpenRouter Free Models (Router)
 
 - dots-studio/dots-3-note-preview:free
-
-- inclusionai/ling-3.1-flash-1019-free
-
-- liquid/lfm-2.5-2.6b:free
 
 - nvidia/nemotron-3.5-lightning:free
 
 - nvidia/nemotron-3.5-super-vl:free
 
-- recursive/flint-v1.0:free
-
 - reflection/beam-free
 
+- stealth/crouton-alpha
+
 - stealth/glyph-cluster
-
-- thinkingmachines/inkling-small:free
-
-- thinkingmachines/inkling:free
-
-- xingchen-agi/xing4.0-29b-a4b:free
 
 
 
@@ -494,10 +480,6 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 
 **Model:**
 
-
-- DeepSeek V3.1
-
-- DeepSeek V3.2
 
 - Gemma 4 31B Instruct
 

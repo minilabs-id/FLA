@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T05:56:18.299699Z",
+  "generated_at": "2026-11-04T05:33:27.221937Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -138,16 +138,6 @@
       "website": "https://cloud.sambanova.ai/apis",
       "models": [
         {
-          "id": "DeepSeek-V3.1",
-          "name": "DeepSeek V3.1",
-          "intelligence_score": null
-        },
-        {
-          "id": "DeepSeek-V3.2",
-          "name": "DeepSeek V3.2",
-          "intelligence_score": null
-        },
-        {
           "id": "gemma-4-31B-it",
           "name": "Gemma 4 31B Instruct",
           "intelligence_score": null
@@ -179,11 +169,6 @@
           "intelligence_score": null
         },
         {
-          "id": "google/gemma-4-31b-it:free",
-          "name": "Gemma 4 31B Instruct",
-          "intelligence_score": null
-        },
-        {
           "id": "kilo-auto/free",
           "name": "Kilo Auto Free (Router)",
           "intelligence_score": null
@@ -199,11 +184,6 @@
           "intelligence_score": null
         },
         {
-          "id": "nvidia/nemotron-3.5-content-safety:free",
-          "name": "NVIDIA Nemotron 3.5 Content Safety",
-          "intelligence_score": null
-        },
-        {
           "id": "openrouter/free",
           "name": "OpenRouter Free Models (Router)",
           "intelligence_score": null
@@ -211,16 +191,6 @@
         {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "inclusionai/ling-3.1-flash-1019-free",
-          "name": "inclusionai/ling-3.1-flash-1019-free",
-          "intelligence_score": null
-        },
-        {
-          "id": "liquid/lfm-2.5-2.6b:free",
-          "name": "liquid/lfm-2.5-2.6b:free",
           "intelligence_score": null
         },
         {
@@ -234,33 +204,18 @@
           "intelligence_score": null
         },
         {
-          "id": "recursive/flint-v1.0:free",
-          "name": "recursive/flint-v1.0:free",
-          "intelligence_score": null
-        },
-        {
           "id": "reflection/beam-free",
           "name": "reflection/beam-free",
           "intelligence_score": null
         },
         {
+          "id": "stealth/crouton-alpha",
+          "name": "stealth/crouton-alpha",
+          "intelligence_score": null
+        },
+        {
           "id": "stealth/glyph-cluster",
           "name": "stealth/glyph-cluster",
-          "intelligence_score": null
-        },
-        {
-          "id": "thinkingmachines/inkling-small:free",
-          "name": "thinkingmachines/inkling-small:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "thinkingmachines/inkling:free",
-          "name": "thinkingmachines/inkling:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "xingchen-agi/xing4.0-29b-a4b:free",
-          "name": "xingchen-agi/xing4.0-29b-a4b:free",
           "intelligence_score": null
         }
       ]
