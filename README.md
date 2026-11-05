@@ -106,10 +106,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [recursive/flint-v1.0:free](https://openrouter.ai/recursive/flint-v1.0:free)
 
-- [thinkingmachines/inkling-small:free](https://openrouter.ai/thinkingmachines/inkling-small:free)
-
-- [thinkingmachines/inkling:free](https://openrouter.ai/thinkingmachines/inkling:free)
-
 - [xingchen-agi/xing4.0-29b-a4b:free](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free)
 
 
