@@ -94,11 +94,11 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [NVIDIA Nemotron 3 Ultra 550B A55B](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free)
 
-- [NVIDIA Nemotron 3.5 Content Safety](https://openrouter.ai/nvidia/nemotron-3.5-content-safety:free)
-
 - [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
 
 - [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
+
+- [liquid/lfm-3-1.7b:free](https://openrouter.ai/liquid/lfm-3-1.7b:free)
 
 - [nvidia/nemotron-3.5-lightning:free](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
 
@@ -221,6 +221,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - OpenRouter Free Models (Router)
 
 - dots-studio/dots-3-note-preview:free
+
+- liquid/lfm-3-1.7b:free
 
 - nvidia/nemotron-3.5-lightning:free
 
@@ -476,6 +478,8 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 
 **Model:**
 
+
+- GLM-5.3
 
 - Gemma 4 31B Instruct
 

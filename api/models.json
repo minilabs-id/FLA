@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T05:49:42.271095Z",
+  "generated_at": "2026-11-07T05:20:21.282353Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -51,15 +51,6 @@
           "intelligence_score": null
         },
         {
-          "id": "nvidia/nemotron-3.5-content-safety:free",
-          "name": "NVIDIA Nemotron 3.5 Content Safety",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
           "limits": {
@@ -71,6 +62,15 @@
         {
           "id": "liquid/lfm-2.5-2.6b:free",
           "name": "liquid/lfm-2.5-2.6b:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "liquid/lfm-3-1.7b:free",
+          "name": "liquid/lfm-3-1.7b:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -119,6 +119,11 @@
       "tier": "free",
       "website": "https://cloud.sambanova.ai/apis",
       "models": [
+        {
+          "id": "GLM-5.3",
+          "name": "GLM-5.3",
+          "intelligence_score": null
+        },
         {
           "id": "gemma-4-31B-it",
           "name": "Gemma 4 31B Instruct",
@@ -173,6 +178,11 @@
         {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "liquid/lfm-3-1.7b:free",
+          "name": "liquid/lfm-3-1.7b:free",
           "intelligence_score": null
         },
         {
