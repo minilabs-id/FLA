@@ -228,8 +228,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - nvidia/nemotron-3.5-super-vl:free
 
-- reflection/beam-free
-
 - stealth/crouton-alpha
 
 - stealth/glyph-cluster
