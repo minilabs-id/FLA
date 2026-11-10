@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T05:29:08.549553Z",
+  "generated_at": "2026-11-10T06:40:18.617501Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -105,6 +105,15 @@
           "intelligence_score": null
         },
         {
+          "id": "thinkingmachines/inkling-2-small:free",
+          "name": "thinkingmachines/inkling-2-small:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
           "id": "xingchen-agi/xing4.0-29b-a4b:free",
           "name": "xingchen-agi/xing4.0-29b-a4b:free",
           "limits": {
@@ -196,13 +205,13 @@
           "intelligence_score": null
         },
         {
-          "id": "stealth/crouton-alpha",
-          "name": "stealth/crouton-alpha",
+          "id": "stealth/glyph-cluster",
+          "name": "stealth/glyph-cluster",
           "intelligence_score": null
         },
         {
-          "id": "stealth/glyph-cluster",
-          "name": "stealth/glyph-cluster",
+          "id": "thinkingmachines/inkling-2-small:free",
+          "name": "thinkingmachines/inkling-2-small:free",
           "intelligence_score": null
         }
       ]

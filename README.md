@@ -106,6 +106,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [recursive/flint-v1.0:free](https://openrouter.ai/recursive/flint-v1.0:free)
 
+- [thinkingmachines/inkling-2-small:free](https://openrouter.ai/thinkingmachines/inkling-2-small:free)
+
 - [xingchen-agi/xing4.0-29b-a4b:free](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free)
 
 
@@ -228,9 +230,9 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - nvidia/nemotron-3.5-super-vl:free
 
-- stealth/crouton-alpha
-
 - stealth/glyph-cluster
+
+- thinkingmachines/inkling-2-small:free
 
 
 
