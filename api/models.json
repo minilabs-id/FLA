@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T06:40:18.617501Z",
+  "generated_at": "2026-11-11T05:27:02.420134Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -107,15 +107,6 @@
         {
           "id": "thinkingmachines/inkling-2-small:free",
           "name": "thinkingmachines/inkling-2-small:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "xingchen-agi/xing4.0-29b-a4b:free",
-          "name": "xingchen-agi/xing4.0-29b-a4b:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50

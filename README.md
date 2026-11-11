@@ -108,8 +108,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [thinkingmachines/inkling-2-small:free](https://openrouter.ai/thinkingmachines/inkling-2-small:free)
 
-- [xingchen-agi/xing4.0-29b-a4b:free](https://openrouter.ai/xingchen-agi/xing4.0-29b-a4b:free)
-
 
 
 ### [Google AI Studio](https://aistudio.google.com)
