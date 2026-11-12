@@ -94,6 +94,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [NVIDIA Nemotron 3 Ultra 550B A55B](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free)
 
+- [baidu/ernie-5.5-flash-preview:free](https://openrouter.ai/baidu/ernie-5.5-flash-preview:free)
+
 - [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
 
 - [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
@@ -219,6 +221,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - NVIDIA Nemotron 3 Ultra 550B A55B
 
 - OpenRouter Free Models (Router)
+
+- baidu/ernie-5.5-flash-preview:free
 
 - dots-studio/dots-3-note-preview:free
 
