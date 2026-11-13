@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T06:31:14.207449Z",
+  "generated_at": "2026-11-13T05:50:54.539967Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -44,6 +44,15 @@
         {
           "id": "nvidia/nemotron-3-ultra-550b-a55b:free",
           "name": "NVIDIA Nemotron 3 Ultra 550B A55B",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "apodex/apodex-1.1-mini:free",
+          "name": "apodex/apodex-1.1-mini:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -98,6 +107,15 @@
         {
           "id": "nvidia/nemotron-3.5-super-vl:free",
           "name": "nvidia/nemotron-3.5-super-vl:free",
+          "limits": {
+            "requests/minute": 20,
+            "requests/day": 50
+          },
+          "intelligence_score": null
+        },
+        {
+          "id": "particle-ai/particle-1:free",
+          "name": "particle-ai/particle-1:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -185,6 +203,11 @@
           "intelligence_score": null
         },
         {
+          "id": "apodex/apodex-1.1-mini:free",
+          "name": "apodex/apodex-1.1-mini:free",
+          "intelligence_score": null
+        },
+        {
           "id": "baidu/ernie-5.5-flash-preview:free",
           "name": "baidu/ernie-5.5-flash-preview:free",
           "intelligence_score": null
@@ -210,13 +233,18 @@
           "intelligence_score": null
         },
         {
-          "id": "stealth/glyph-cluster",
-          "name": "stealth/glyph-cluster",
+          "id": "particle-ai/particle-1:free",
+          "name": "particle-ai/particle-1:free",
           "intelligence_score": null
         },
         {
-          "id": "thinkingmachines/inkling-2-small:free",
-          "name": "thinkingmachines/inkling-2-small:free",
+          "id": "reflection/beam-free",
+          "name": "reflection/beam-free",
+          "intelligence_score": null
+        },
+        {
+          "id": "stealth/glyph-cluster",
+          "name": "stealth/glyph-cluster",
           "intelligence_score": null
         }
       ]

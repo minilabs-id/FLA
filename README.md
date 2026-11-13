@@ -94,6 +94,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [NVIDIA Nemotron 3 Ultra 550B A55B](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free)
 
+- [apodex/apodex-1.1-mini:free](https://openrouter.ai/apodex/apodex-1.1-mini:free)
+
 - [baidu/ernie-5.5-flash-preview:free](https://openrouter.ai/baidu/ernie-5.5-flash-preview:free)
 
 - [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
@@ -105,6 +107,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - [nvidia/nemotron-3.5-lightning:free](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
 
 - [nvidia/nemotron-3.5-super-vl:free](https://openrouter.ai/nvidia/nemotron-3.5-super-vl:free)
+
+- [particle-ai/particle-1:free](https://openrouter.ai/particle-ai/particle-1:free)
 
 - [recursive/flint-v1.0:free](https://openrouter.ai/recursive/flint-v1.0:free)
 
@@ -222,6 +226,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - OpenRouter Free Models (Router)
 
+- apodex/apodex-1.1-mini:free
+
 - baidu/ernie-5.5-flash-preview:free
 
 - dots-studio/dots-3-note-preview:free
@@ -232,9 +238,11 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - nvidia/nemotron-3.5-super-vl:free
 
-- stealth/glyph-cluster
+- particle-ai/particle-1:free
 
-- thinkingmachines/inkling-2-small:free
+- reflection/beam-free
+
+- stealth/glyph-cluster
 
 
 
