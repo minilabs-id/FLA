@@ -94,13 +94,11 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [NVIDIA Nemotron 3 Ultra 550B A55B](https://openrouter.ai/nvidia/nemotron-3-ultra-550b-a55b:free)
 
-- [apodex/apodex-1.1-mini:free](https://openrouter.ai/apodex/apodex-1.1-mini:free)
-
 - [baidu/ernie-5.5-flash-preview:free](https://openrouter.ai/baidu/ernie-5.5-flash-preview:free)
 
 - [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
 
-- [liquid/lfm-2.5-2.6b:free](https://openrouter.ai/liquid/lfm-2.5-2.6b:free)
+- [inclusionai/ling-3.2-flash:free](https://openrouter.ai/inclusionai/ling-3.2-flash:free)
 
 - [liquid/lfm-3-1.7b:free](https://openrouter.ai/liquid/lfm-3-1.7b:free)
 
@@ -226,11 +224,11 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - OpenRouter Free Models (Router)
 
-- apodex/apodex-1.1-mini:free
-
 - baidu/ernie-5.5-flash-preview:free
 
 - dots-studio/dots-3-note-preview:free
+
+- inclusionai/ling-3.2-flash:free
 
 - liquid/lfm-3-1.7b:free
 

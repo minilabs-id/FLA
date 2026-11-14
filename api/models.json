@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:50:54.539967Z",
+  "generated_at": "2026-11-14T05:40:17.583262Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -51,15 +51,6 @@
           "intelligence_score": null
         },
         {
-          "id": "apodex/apodex-1.1-mini:free",
-          "name": "apodex/apodex-1.1-mini:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
           "id": "baidu/ernie-5.5-flash-preview:free",
           "name": "baidu/ernie-5.5-flash-preview:free",
           "limits": {
@@ -78,8 +69,8 @@
           "intelligence_score": null
         },
         {
-          "id": "liquid/lfm-2.5-2.6b:free",
-          "name": "liquid/lfm-2.5-2.6b:free",
+          "id": "inclusionai/ling-3.2-flash:free",
+          "name": "inclusionai/ling-3.2-flash:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -203,11 +194,6 @@
           "intelligence_score": null
         },
         {
-          "id": "apodex/apodex-1.1-mini:free",
-          "name": "apodex/apodex-1.1-mini:free",
-          "intelligence_score": null
-        },
-        {
           "id": "baidu/ernie-5.5-flash-preview:free",
           "name": "baidu/ernie-5.5-flash-preview:free",
           "intelligence_score": null
@@ -215,6 +201,11 @@
         {
           "id": "dots-studio/dots-3-note-preview:free",
           "name": "dots-studio/dots-3-note-preview:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "inclusionai/ling-3.2-flash:free",
+          "name": "inclusionai/ling-3.2-flash:free",
           "intelligence_score": null
         },
         {
