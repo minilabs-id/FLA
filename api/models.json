@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T05:39:03.398181Z",
+  "generated_at": "2026-11-17T07:15:38.263596Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -204,11 +204,6 @@
           "intelligence_score": null
         },
         {
-          "id": "inclusionai/ling-3.2-flash:free",
-          "name": "inclusionai/ling-3.2-flash:free",
-          "intelligence_score": null
-        },
-        {
           "id": "liquid/lfm-3-1.7b:free",
           "name": "liquid/lfm-3-1.7b:free",
           "intelligence_score": null
@@ -277,11 +272,6 @@
         {
           "id": "gemma-4-26b-a4b-it",
           "name": "gemma-4-26b-a4b-it",
-          "intelligence_score": null
-        },
-        {
-          "id": "glm-5.2",
-          "name": "glm-5.2",
           "intelligence_score": null
         },
         {

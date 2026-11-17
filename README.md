@@ -228,8 +228,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - dots-studio/dots-3-note-preview:free
 
-- inclusionai/ling-3.2-flash:free
-
 - liquid/lfm-3-1.7b:free
 
 - nvidia/nemotron-3.5-lightning:free
@@ -522,8 +520,6 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 - deepseek-v4.1-flash-1017
 
 - gemma-4-26b-a4b-it
-
-- glm-5.2
 
 - glm-5.3
 
