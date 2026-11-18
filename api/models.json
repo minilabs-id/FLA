@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:15:38.263596Z",
+  "generated_at": "2026-11-18T06:40:29.584980Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -145,11 +145,6 @@
         {
           "id": "gemma-4-31B-it",
           "name": "Gemma 4 31B Instruct",
-          "intelligence_score": null
-        },
-        {
-          "id": "Meta-Llama-3.3-70B-Instruct",
-          "name": "Llama 3.3 70B Instruct",
           "intelligence_score": null
         },
         {

@@ -489,8 +489,6 @@ _Daftar model tidak di-fetch (butuh kredensial Cloudflare)._
 
 - Gemma 4 31B Instruct
 
-- Llama 3.3 70B Instruct
-
 - MiniMax-M3.1-Flash
 
 - OpenAI GPT-OSS 120B
