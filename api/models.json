@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:40:29.584980Z",
+  "generated_at": "2026-11-19T06:41:36.914664Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -199,6 +199,11 @@
           "intelligence_score": null
         },
         {
+          "id": "inclusionai/ling-3.2-flash:free",
+          "name": "inclusionai/ling-3.2-flash:free",
+          "intelligence_score": null
+        },
+        {
           "id": "liquid/lfm-3-1.7b:free",
           "name": "liquid/lfm-3-1.7b:free",
           "intelligence_score": null
@@ -216,6 +221,11 @@
         {
           "id": "particle-ai/particle-1:free",
           "name": "particle-ai/particle-1:free",
+          "intelligence_score": null
+        },
+        {
+          "id": "recursive/flint-v1.0:free",
+          "name": "recursive/flint-v1.0:free",
           "intelligence_score": null
         },
         {

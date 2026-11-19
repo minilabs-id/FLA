@@ -228,6 +228,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - dots-studio/dots-3-note-preview:free
 
+- inclusionai/ling-3.2-flash:free
+
 - liquid/lfm-3-1.7b:free
 
 - nvidia/nemotron-3.5-lightning:free
@@ -235,6 +237,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - nvidia/nemotron-3.5-super-vl:free
 
 - particle-ai/particle-1:free
+
+- recursive/flint-v1.0:free
 
 - reflection/beam-free
 
