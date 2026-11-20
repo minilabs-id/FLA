@@ -84,8 +84,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 **Model gratis:**
 
 
-- [Cohere North Mini Code](https://openrouter.ai/cohere/north-mini-code:free)
-
 - [Gemma 4 26B A4B Instruct](https://openrouter.ai/google/gemma-4-26b-a4b-it:free)
 
 - [Gemma 4 31B Instruct](https://openrouter.ai/google/gemma-4-31b-it:free)
@@ -109,8 +107,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 - [particle-ai/particle-1:free](https://openrouter.ai/particle-ai/particle-1:free)
 
 - [recursive/flint-v1.0:free](https://openrouter.ai/recursive/flint-v1.0:free)
-
-- [thinkingmachines/inkling-2-small:free](https://openrouter.ai/thinkingmachines/inkling-2-small:free)
 
 
 
@@ -213,8 +209,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 **Model gratis:**
 
-
-- Cohere North Mini Code
 
 - Kilo Auto Free (Router)
 

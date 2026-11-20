@@ -1,19 +1,10 @@
 {
-  "generated_at": "2026-11-19T06:41:36.914664Z",
+  "generated_at": "2026-11-20T06:29:46.443319Z",
   "providers": {
     "openrouter": {
       "tier": "free",
       "website": "https://openrouter.ai/settings/keys",
       "models": [
-        {
-          "id": "cohere/north-mini-code:free",
-          "name": "Cohere North Mini Code",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
         {
           "id": "google/gemma-4-26b-a4b-it:free",
           "name": "Gemma 4 26B A4B Instruct",
@@ -121,15 +112,6 @@
             "requests/day": 50
           },
           "intelligence_score": null
-        },
-        {
-          "id": "thinkingmachines/inkling-2-small:free",
-          "name": "thinkingmachines/inkling-2-small:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
         }
       ]
     },
@@ -163,11 +145,6 @@
       "tier": "free",
       "website": "https://kilo.ai/dashboard",
       "models": [
-        {
-          "id": "cohere/north-mini-code:free",
-          "name": "Cohere North Mini Code",
-          "intelligence_score": null
-        },
         {
           "id": "kilo-auto/free",
           "name": "Kilo Auto Free (Router)",
