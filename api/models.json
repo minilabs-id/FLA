@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:29:46.443319Z",
+  "generated_at": "2026-11-21T06:20:42.693138Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -44,15 +44,6 @@
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
           "name": "baidu/ernie-5.5-flash-preview:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "dots-studio/dots-3-note-preview:free",
-          "name": "dots-studio/dots-3-note-preview:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -168,11 +159,6 @@
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
           "name": "baidu/ernie-5.5-flash-preview:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "dots-studio/dots-3-note-preview:free",
-          "name": "dots-studio/dots-3-note-preview:free",
           "intelligence_score": null
         },
         {
