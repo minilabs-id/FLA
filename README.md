@@ -94,6 +94,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [baidu/ernie-5.5-flash-preview:free](https://openrouter.ai/baidu/ernie-5.5-flash-preview:free)
 
+- [dots-studio/dots-3-note-preview:free](https://openrouter.ai/dots-studio/dots-3-note-preview:free)
+
 - [inclusionai/ling-3.2-flash:free](https://openrouter.ai/inclusionai/ling-3.2-flash:free)
 
 - [liquid/lfm-3-1.7b:free](https://openrouter.ai/liquid/lfm-3-1.7b:free)
@@ -217,6 +219,8 @@ Ubah src/README_template.md atau skrip generator-nya.
 - OpenRouter Free Models (Router)
 
 - baidu/ernie-5.5-flash-preview:free
+
+- dots-studio/dots-3-note-preview:free
 
 - inclusionai/ling-3.2-flash:free
 
