@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:33:32.431164Z",
+  "generated_at": "2026-11-28T07:01:53.290150Z",
   "providers": {
     "openrouter": {
       "tier": "free",
@@ -44,15 +44,6 @@
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
           "name": "baidu/ernie-5.5-flash-preview:free",
-          "limits": {
-            "requests/minute": 20,
-            "requests/day": 50
-          },
-          "intelligence_score": null
-        },
-        {
-          "id": "inclusionai/ling-3.2-flash:free",
-          "name": "inclusionai/ling-3.2-flash:free",
           "limits": {
             "requests/minute": 20,
             "requests/day": 50
@@ -159,11 +150,6 @@
         {
           "id": "baidu/ernie-5.5-flash-preview:free",
           "name": "baidu/ernie-5.5-flash-preview:free",
-          "intelligence_score": null
-        },
-        {
-          "id": "inclusionai/ling-3.2-flash:free",
-          "name": "inclusionai/ling-3.2-flash:free",
           "intelligence_score": null
         },
         {

@@ -94,8 +94,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 
 - [baidu/ernie-5.5-flash-preview:free](https://openrouter.ai/baidu/ernie-5.5-flash-preview:free)
 
-- [inclusionai/ling-3.2-flash:free](https://openrouter.ai/inclusionai/ling-3.2-flash:free)
-
 - [liquid/lfm-3-1.7b:free](https://openrouter.ai/liquid/lfm-3-1.7b:free)
 
 - [nvidia/nemotron-3.5-lightning:free](https://openrouter.ai/nvidia/nemotron-3.5-lightning:free)
@@ -217,8 +215,6 @@ Ubah src/README_template.md atau skrip generator-nya.
 - OpenRouter Free Models (Router)
 
 - baidu/ernie-5.5-flash-preview:free
-
-- inclusionai/ling-3.2-flash:free
 
 - liquid/lfm-3-1.7b:free
 
